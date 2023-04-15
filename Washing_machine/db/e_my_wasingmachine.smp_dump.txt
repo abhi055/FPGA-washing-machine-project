@@ -1,0 +1,14 @@
+
+State Machine - |e_my_wasingmachine|washingmachine_state
+Name washingmachine_state.S_ULTRA washingmachine_state.S_DRYER washingmachine_state.S_HEAVY washingmachine_state.S_LIGHT washingmachine_state.S_EMPTY2 washingmachine_state.S_EMPTY1 washingmachine_state.S_RINSE washingmachine_state.S_FILLING2 washingmachine_state.S_FILLING1 washingmachine_state.S_INITIAL washingmachine_state.S_SBY 
+washingmachine_state.S_SBY 0 0 0 0 0 0 0 0 0 0 0 
+washingmachine_state.S_INITIAL 0 0 0 0 0 0 0 0 0 1 1 
+washingmachine_state.S_FILLING1 0 0 0 0 0 0 0 0 1 0 1 
+washingmachine_state.S_FILLING2 0 0 0 0 0 0 0 1 0 0 1 
+washingmachine_state.S_RINSE 0 0 0 0 0 0 1 0 0 0 1 
+washingmachine_state.S_EMPTY1 0 0 0 0 0 1 0 0 0 0 1 
+washingmachine_state.S_EMPTY2 0 0 0 0 1 0 0 0 0 0 1 
+washingmachine_state.S_LIGHT 0 0 0 1 0 0 0 0 0 0 1 
+washingmachine_state.S_HEAVY 0 0 1 0 0 0 0 0 0 0 1 
+washingmachine_state.S_DRYER 0 1 0 0 0 0 0 0 0 0 1 
+washingmachine_state.S_ULTRA 1 0 0 0 0 0 0 0 0 0 1 

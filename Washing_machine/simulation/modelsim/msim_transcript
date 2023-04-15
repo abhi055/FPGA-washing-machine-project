@@ -1,0 +1,190 @@
+# Reading C:/intelFPGA/19.1/modelsim_ase/tcl/vsim/pref.tcl
+# do e_my_wasingmachine_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_modulo_time_counter.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:33 on Jul 24,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_modulo_time_counter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity e_modulo_time_counter
+# -- Compiling architecture a_modulo_time_counter of e_modulo_time_counter
+# End time: 13:32:33 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_my_wasingmachine.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:33 on Jul 24,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_my_wasingmachine.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity e_my_wasingmachine
+# -- Compiling architecture a_my_wasingmachine of e_my_wasingmachine
+# End time: 13:32:33 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_hex7seg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:33 on Jul 24,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_hex7seg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_hex7seg
+# -- Compiling architecture a_hex7seg of e_hex7seg
+# End time: 13:32:33 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_2to4decode.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:33 on Jul 24,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_2to4decode.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_2to4decode
+# -- Compiling architecture a_2to4decode of e_2to4decode
+# End time: 13:32:33 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_ownRAM.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:33 on Jul 24,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_ownRAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity e_ownRAM
+# -- Compiling architecture a_ownRAM of e_ownRAM
+# End time: 13:32:33 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/e_my_wasingmachine.vht
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:47 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/e_my_wasingmachine.vht 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_my_wasingmachine_vhd_tst
+# -- Compiling architecture e_my_wasingmachine_arch of e_my_wasingmachine_vhd_tst
+# End time: 13:32:47 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/e_my_wasingmachine.vht
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:32:52 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/e_my_wasingmachine.vht 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_my_wasingmachine_vhd_tst
+# -- Compiling architecture e_my_wasingmachine_arch of e_my_wasingmachine_vhd_tst
+# End time: 13:32:52 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/run.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:33:12 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_2to4decode.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_2to4decode
+# -- Compiling architecture a_2to4decode of e_2to4decode
+# End time: 13:33:12 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:33:12 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_hex7seg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_hex7seg
+# -- Compiling architecture a_hex7seg of e_hex7seg
+# End time: 13:33:13 on Jul 24,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:33:13 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_modulo_time_counter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity e_modulo_time_counter
+# -- Compiling architecture a_modulo_time_counter of e_modulo_time_counter
+# End time: 13:33:13 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:33:13 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_ownRAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity e_ownRAM
+# -- Compiling architecture a_ownRAM of e_ownRAM
+# End time: 13:33:13 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:33:13 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_my_wasingmachine.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity e_my_wasingmachine
+# -- Compiling architecture a_my_wasingmachine of e_my_wasingmachine
+# End time: 13:33:13 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:33:13 on Jul 24,2020
+# vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/e_my_wasingmachine.vht 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity e_my_wasingmachine_vhd_tst
+# -- Compiling architecture e_my_wasingmachine_arch of e_my_wasingmachine_vhd_tst
+# End time: 13:33:13 on Jul 24,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.e_my_wasingmachine_vhd_tst 
+# Start time: 13:33:13 on Jul 24,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.e_my_wasingmachine_vhd_tst(e_my_wasingmachine_arch)
+# Loading ieee.numeric_std(body)
+# Loading work.e_my_wasingmachine(a_my_wasingmachine)
+# Loading work.e_modulo_time_counter(a_modulo_time_counter)
+# Loading work.e_2to4decode(a_2to4decode)
+# Loading work.e_hex7seg(a_hex7seg)
+# Loading work.e_ownram(a_ownram)
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Const  Hostname: LAPTOP-706DTERE  ProcessID: 5588
+#           Attempting to use alternate WLF file "./wlftw3ie1h".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftw3ie1h
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_writeinmemory
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_count1h40m
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_count1h20m
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_count15m
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_count5m
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_count5s
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /e_my_wasingmachine_vhd_tst/i1/I_count2s
+# End time: 13:40:59 on Jul 24,2020, Elapsed time: 0:07:46
+# Errors: 0, Warnings: 9

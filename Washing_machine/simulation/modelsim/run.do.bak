@@ -1,0 +1,7 @@
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_2to4decode.vhd
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_hex7seg.vhd
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_modulo_time_counter.vhd
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_ownRAM.vhd
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/e_my_wasingmachine.vhd
+vcom -reportprogress 300 -work work C:/Users/Const/Documents/Master.Infotronik/1.Semester/FPGAProgrammierung/Washing_machine/Washing_machine/simulation/modelsim/e_my_wasingmachine.vht 
+vsim work.e_my_wasingmachine_vhd_tst
